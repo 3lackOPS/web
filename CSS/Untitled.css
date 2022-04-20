@@ -1,0 +1,35 @@
+.top-container{
+    background-color: grey;
+    height: 300px;
+    width: 300px;
+}
+
+.red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+}
+
+.blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 00px;
+    left: 200px;
+}
+
+.yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: fixed;
+    top: 0;
+    left:100px
+    
+}
+
+body{
+    margin: 0px;
+}
